@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
 <h3 align="center">Data Analyst | Data Science  Enthusiast | Learn Pattern From Data</h3>
 
-🔍 A results-driven and detail-oriented **Data Engineer** passionate about building scalable data infrastructure and contributing to real-time analytics for sustainability and innovation.
+🔍 A results-driven and detail-oriented **Data Analyst** passionate about building scalable data infrastructure and contributing to real-time analytics for sustainability and innovation.
 
 🌱 Currently seeking opportunities to apply my expertise in **SQL, Python, cloud platforms**, and **BI tools** to solve real-world problems.
 
