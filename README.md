@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Singh</h1>
-<h3 align="center">Data Engineer | Cloud Enthusiast | BI Developer</h3>
+<h3 align="center">Data Analyst | Data Science  Enthusiast | Learn Pattern From Data</h3>
 
 🔍 A results-driven and detail-oriented **Data Engineer** passionate about building scalable data infrastructure and contributing to real-time analytics for sustainability and innovation.
 
