@@ -3,7 +3,7 @@
 
 🔍 A results-driven and detail-oriented **Data Analyst** passionate about building scalable data infrastructure and contributing to real-time analytics for sustainability and innovation.
 
-🌱 Currently seeking opportunities to apply my expertise in **SQL, Python, and **BI tools** to solve real-world problems.
+🌱 Currently seeking opportunities to apply my expertise in SQL, Python, and **BI tools** to solve real-world problems.
 
 ---
 
