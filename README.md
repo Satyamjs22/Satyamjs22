@@ -9,9 +9,8 @@
 
 ### 🧠 Career Snapshot
 
-- 🔧 Strong experience in **ETL pipelines**, **data warehousing**, and **cloud data storage**
 - 📊 Dashboard & reporting development using **Power BI** and **Tableau**
-- 💾 Proficient in **PostgreSQL**, **MySQL**, and database design
+- 💾 Proficient in **SQL**, **MySQL**, and database design
 - 🧪 Hands-on with **Python**, **Pandas**, **Numpy**, and **Matplotlib**
 - ☁️ Cloud tools for scalable and secure data operations
 - 🤝 Excellent collaboration skills with analysts, stakeholders, and engineers
@@ -25,7 +24,6 @@
 - 🎓 **Certified Data Science Professional** – Imarticus Learning (2025)
 - 🏅 Certifications:
   - NPTEL – Data Analytics with Python, Data Mining
-  - GeeksForGeeks – Machine Learning & Data Science
   - Imarticus – PG in Data Science & Analytics
 
 ---
@@ -50,10 +48,10 @@
 `Python` | `SQL` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn`
 
 **Databases:**  
-`PostgreSQL` | `MySQL`
+`MySQL`
 
 **BI & Visualization Tools:**  
-`Power BI` | `Tableau` | `Excel` | `Metabase`
+`Power BI` | `Tableau` | `Excel`
 
 **Platforms:**  
 `Jupyter Notebook` | `Google Colab` | `Anaconda`
@@ -64,6 +62,8 @@
 
 📧 **Email:** satyamjsingh6@gmail.com  
 🔗 **LinkedIn:** [Satyam Singh](https://www.linkedin.com/in/satyam-singh-8bb8a6257)
+💼  **Portfolio:** [Portfolio](https://impress-me-page.lovable.app/)
+
 
 ---
 
