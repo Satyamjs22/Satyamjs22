@@ -62,7 +62,7 @@
 
 📧 **Email:** satyamjsingh6@gmail.com  
 🔗 **LinkedIn:** [Satyam Singh](https://www.linkedin.com/in/satyam-singh-8bb8a6257)
-💼  **Portfolio:** [Portfolio](https://impress-me-page.lovable.app/)
+💼 **Portfolio:** [Portfolio](https://impress-me-page.lovable.app/)
 
 
 ---
